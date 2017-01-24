@@ -1,0 +1,40 @@
+[
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "main",
+        "source": "app/assistants/main-assistant.js"
+    },
+    {"source": "/usr/palm/frameworks/media/media.js"},
+    {
+        "scenes": "menu",
+        "source": "app/assistants/menu-assistant.js"
+    },
+    {
+        "scenes": "highscores",
+        "source": "app/assistants/highscores-assistant.js"
+    },
+    {
+        "scenes": "settings",
+        "source": "app/assistants/settings-assistant.js"
+    },
+    {
+        "scenes": "tutorial",
+        "source": "app/assistants/tutorial-assistant.js"
+    },
+    {
+        "scenes": "popup-alert",
+        "source": "app/assistants/popup-alert-assistant.js"
+    },
+    {
+        "scenes": "dashboard",
+        "source": "app/assistants/dashboard-assistant.js"
+    },
+    {
+        "scenes": "dashboard-achievement",
+        "source": "app/assistants/dashboard-achievement-assistant.js"
+    },
+    {
+        "scenes": "Download",
+        "source": "app/assistants/Download-assistant.js"
+    }
+]

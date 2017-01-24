@@ -1,0 +1,9 @@
+{
+	"id": "com.fioware.pretris",
+	"version": "1.1.0",
+	"vendor": "Fioware",
+	"type": "web",
+	"main": "index.html",
+	"title": "Supernova",
+	"icon": "icon.png"
+}
